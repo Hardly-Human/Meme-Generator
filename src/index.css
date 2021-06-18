@@ -39,7 +39,7 @@ header > p {
 form {
 	margin: 20px;
 	display: flex;
-	justify-content: space-evenly;
+	justify-content: center;
 }
 
 form > input {
@@ -47,6 +47,7 @@ form > input {
 	padding: 15px 20px;
 	border-radius: 25px;
 	background: #fff;
+	margin-right: 20px;
 }
 
 button {
@@ -58,6 +59,7 @@ button {
 	text-decoration: none;
 	display: inline-block;
 	font-size: 16px;
+	border-radius: 25px;
 }
 
 .meme {
